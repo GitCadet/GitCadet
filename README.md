@@ -8,13 +8,6 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 
 ---
 
-## 🏆 **Certifications**  
-
-- **AWS Certified DevOps Engineer – Professional**
-- **AWS Certified Solutions Architect – Associate**  
-
----
-
 ## 📂 **Featured Projects**  
 
 ### ⚙️ **CI/CD Pipelines**  
@@ -32,6 +25,12 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 - **Technologies**: Kubernetes, Docker, Helm, Prometheus, Grafana.  
 - **Skills Demonstrated**: Container orchestration, monitoring setup, and resource management. 
 
+---
+
+## 🏆 **Certifications**  
+
+- **AWS Certified DevOps Engineer – Professional**
+- **AWS Certified Solutions Architect – Associate**
 ---
 
 ## 🌐 **Connect With Me**  
