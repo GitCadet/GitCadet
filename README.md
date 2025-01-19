@@ -11,7 +11,7 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 ## 📂 **Featured Projects**  
 
 ### ⚙️ **CI/CD Pipelines**  
-- **Description**: A complete Jenkins pipeline setup, featuring automated build, test, and deployment for a microservices application.  
+- **Description**: A complete Jenkins pipeline setup, featuring automated build, test, and deployment for applications.  
 - **Technologies**: Jenkins, Docker, Kubernetes, Helm, AWS.  
 - **Skills Demonstrated**: Pipeline optimisation, container orchestration, and end-to-end deployment automation.  
 
