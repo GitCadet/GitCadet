@@ -11,17 +11,17 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 ## 📂 **Featured Projects**  
 
 ### ⚙️ **CI/CD Pipelines**  
-- **Description**: A complete Jenkins pipeline setup, featuring automated build, test, and deployment for applications.  
+- **Overview**: A complete Jenkins pipeline setup, featuring automated build, test, and deployment for applications.  
 - **Technologies**: Jenkins, Docker, Kubernetes, Helm, AWS.  
 - **Skills Demonstrated**: Pipeline optimisation, container orchestration, and end-to-end deployment automation.  
 
 ### 🧩 **Infrastructure as Code**  
-- **Description**: Automated multi-environment cloud infrastructure deployment for high availability web applications.  
+- **Overview**: Automated multi-environment cloud infrastructure deployment for high availability web applications.  
 - **Technologies**: Terraform, AWS, GitHub Actions, CloudFormation.  
 - **Skills Demonstrated**: Infrastructure design, security best practices, and robust architechtures.  
 
 ### 📦 **Kubernetes Cluster Management**  
-- **Description**: Deployed and managed a Kubernetes cluster to host containerized applications with auto-scaling and monitoring.  
+- **Overview**: Deployed and managed Kubernetes clusters to host containerised applications with auto-scaling and monitoring.  
 - **Technologies**: Kubernetes, Docker, Helm, Prometheus, Grafana.  
 - **Skills Demonstrated**: Container orchestration, monitoring setup, and resource management. 
 
