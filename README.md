@@ -1,5 +1,5 @@
 ## 🔖 Welcome to My GitHub! 
-Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering efficient, scalable, and automated solutions for software development and deployment. My GitHub showcases a collection of projects and practices that highlight my proficency in DevOps, CI/CD pipelines, and infrastructure management.
+Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering efficient, scalable, and automated solutions for software development and deployment. My GitHub showcases a collection of projects that highlight my proficency in DevOps, CI/CD pipelines, infrastructure management and much more.
 
 ---
 
@@ -16,7 +16,7 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 - **Skills Demonstrated**: Pipeline optimisation, container orchestration, and end-to-end deployment automation.  
 
 ### 🧩 **Infrastructure as Code**  
-- **Description**: Automated multi-environment cloud infrastructure deployment for high-availability web applications.  
+- **Description**: Automated multi-environment cloud infrastructure deployment for high availability web applications.  
 - **Technologies**: Terraform, AWS, GitHub Actions, CloudFormation.  
 - **Skills Demonstrated**: Infrastructure design, security best practices, and robust architechtures.  
 
