@@ -22,7 +22,7 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 
 ### 📦 **Kubernetes Cluster Management**  
 - **Overview**: Deployed and managed Kubernetes clusters to host containerised applications.  
-- **Technologies**: Kubernetes, Docker.  
+- **Technologies**: ArgoCD, Kubernetes, Docker.  
 - **Skills Demonstrated**: Container orchestration and resource management. 
 
 ---
