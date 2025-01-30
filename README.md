@@ -12,7 +12,7 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 
 ### ⚙️ **CI/CD Pipelines**  
 - **Overview**: A complete CICD pipeline setup, featuring automated build, test, and deployment for applications.  
-- **Technologies**: Jenkins, AWS, Docker, Kubernetes.  
+- **Technologies**: GitLab, CodePipeline, Docker, Kubernetes.  
 - **Skills Demonstrated**: Pipeline optimisation, container orchestration, and end-to-end deployment automation.  
 
 ### 🧩 **Infrastructure as Code**  
