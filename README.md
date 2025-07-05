@@ -36,7 +36,7 @@ Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering eff
 ## 🌐 **Connect With Me**  
 
 - **LinkedIn**: https://www.linkedin.com/in/ashafii/
-- **Email**: Pelegbede10@outlook.com
+- **Email**: Ashafi9@outlook.com
 
 
 <!--
