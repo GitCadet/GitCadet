@@ -29,7 +29,7 @@ Hi! I'm Abdullah Shafi, a passionate Software Engineer dedicated to delivering e
 
 ## 🏆 **Certifications**  
 
-- **AWS Certified DevOps Engineer – Professional** **https://www.credly.com/badges/0b9b9ac3-a163-4377-b075-15ea90089d3f/linked_in_profile **
+- **AWS Certified DevOps Engineer – Professional**https://www.credly.com/badges/0b9b9ac3-a163-4377-b075-15ea90089d3f/linked_in_profile
 - **AWS Certified Solutions Architect – Associate**
 ---
 
