@@ -1,5 +1,5 @@
 ## 🔖 Welcome to My GitHub! 
-Hi! I'm Abdullah Shafi, a passionate DevOps Engineer dedicated to delivering efficient, scalable, and automated solutions for software development and deployment. My GitHub showcases a collection of projects that highlight my proficency in DevOps, CI/CD pipelines, infrastructure management and much more!
+Hi! I'm Abdullah Shafi, a passionate Software Engineer dedicated to delivering efficient, scalable, and automated solutions for software development and deployment. My GitHub showcases a collection of projects that highlight my proficency in DevOps, CI/CD pipelines, infrastructure management and much more!
 
 ---
 
