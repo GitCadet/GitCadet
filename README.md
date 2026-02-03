@@ -33,6 +33,8 @@ Hi! I'm Abdullah Shafi, a passionate Software Engineer dedicated to delivering e
 https://www.credly.com/badges/0b9b9ac3-a163-4377-b075-15ea90089d3f
 - **AWS Certified Solutions Architect – Associate:**
 https://www.credly.com/badges/f5b2a6a5-a21e-4e4e-9b82-c65ed6f38487
+- **AWS Certified Cloud Practitioner:**
+https://www.credly.com/badges/65a7b902-0c89-43dd-a33a-3b7b7df3d671/linked_in_profile
 ---
 
 ## 🌐 **Connect With Me**  
